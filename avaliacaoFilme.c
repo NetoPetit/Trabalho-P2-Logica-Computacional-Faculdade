@@ -64,7 +64,6 @@ int main()
         printf("%s \n", menuItens.um.sinopse);
         printf("\n%s", menuItens.um.dataLancamento);
 
-
         int avaliacao;
         printf("\n\nInforme uma nota de 1 a 5 para o filme \n\n");
         scanf(" %d", &avaliacao);
